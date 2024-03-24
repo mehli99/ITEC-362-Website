@@ -7,21 +7,22 @@
 
 
 body {
-    background-color: #fffacd; /* Yellow cream color */
-    font-family: Arial, sans-serif;
+    background-color: #fffacd; 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 
 header {
-    background-color: #333; /* Dark gray */
-    color: #fff; /* White */
+    background-color: #333; 
+    color: #fff; 
     text-align: center;
     padding: 10px 0;
 }
 
 
 nav {
-    text-align: center;
+    text-align: left;
 }
 
 nav ul {
@@ -36,7 +37,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #000000;
     text-decoration: none;
     padding: 10px 20px;
     display: block;
@@ -68,12 +69,11 @@ nav ul li a:hover {
 }
 
 .dropdown-content a:hover {
-    background-color: #ddd;
+    background-color: #000000;
 }
 
 
-.title {
+h2 {
     text-align: center;
     margin-top: 20px;
 }
-
