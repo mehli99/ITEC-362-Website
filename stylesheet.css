@@ -9,7 +9,8 @@ footer {
             padding-top: 40px;
         }
 img {
-            margin-bottom: 20px; 
+    padding-top: 20px;      
+    margin-bottom: 20px; 
         }
 
 article {
@@ -30,6 +31,9 @@ header {
     padding: 10px 0;
 }
 
+p {
+    padding-top: 20px;
+}
 
 nav {
     text-align: right;
