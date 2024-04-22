@@ -5,7 +5,13 @@
     box-sizing: border-box;
 }
 
+ img {
+            margin-bottom: 20px; 
+        }
 
+        article {
+            padding-top: 20px; 
+        }
 body {
     background-color: #fffacd; 
     font-family: 'Times New Roman', Times, serif;
